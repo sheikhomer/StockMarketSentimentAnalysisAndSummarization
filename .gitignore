@@ -169,3 +169,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+# GloVe word vectors
+glove.6B.100d.txt.word2vec
