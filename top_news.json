@@ -1,0 +1,434 @@
+{
+    "2019-01-06": {
+        "negative_events": [
+            {
+                "news": "Apple cut its fiscal Q1 revenue guidance to $84 billion from earlier estimates of $89-$93 billion due to weaker than expected iPhone sales. The announcement caused a significant drop in Apple's stock price and negatively impacted related suppliers, leading to broader market declines for tech indices such as Nasdaq 10"
+            },
+            {
+                "news": "Apple lowered its fiscal first quarter revenue forecast from $89-$93 billion to $84 billion due to weaker demand in China and fewer iPhone upgrades. CEO Tim Cook also mentioned constrained sales of Airpods and Macbooks."
+            },
+            {
+                "news": "This news article reports that yields on long-dated U.S. Treasury securities hit their lowest levels in nearly a year on January 2, 2019, due to concerns about the health of the global economy following weak economic data from China and Europe, as well as the partial U.S. government shutdown."
+            }
+        ],
+        "positive_events": [
+            {
+                "news": "Oil prices rebounded on Thursday due to dollar weakness, signs of output cuts by Saudi Arabia, and weaker fuel oil margins leading Riyadh to lower February prices for heavier crude grades sold to Asia."
+            },
+            {
+                "news": "Gold prices have reached their highest level since mid-June, with the yellow metal hitting $1,291.40 per ounce due to investor concerns over a slowing economy and Apple's bearish revenue outlook."
+            },
+            {
+                "news": "The stock market rebounded strongly on Friday following positive news about US-China trade talks, a better-than-expected jobs report, and dovish comments from Federal Reserve Chairman Jerome Powell."
+            }
+        ]
+    },
+    "2019-01-13": {
+        "negative_events": [
+            {
+                "news": "Geely, China's most successful carmaker, forecasts flat sales for 2019 due to economic slowdown and cautious consumers."
+            },
+            {
+                "news": "The Chinese smartphone market, the world's largest, saw a decline of 12-15.5 percent in shipments last year with December experiencing a 17 percent slump"
+            },
+            {
+                "news": "Apple's NASDAQ AAPL stock declined by 0.52% in premarket trade Friday due to price cuts of iPhone models in China"
+            }
+        ],
+        "positive_events": [
+            {
+                "news": "Amazon's stock is predicted to surge by over 20% by the end of this year, according to a new report from Pivotal Research. Senior analyst Brian Wieser initiated coverage on the stock with a buy rating and a year-end price target of $1,920."
+            },
+            {
+                "news": "Deutsche Bank upgraded Vivendi's Universal Music Group valuation from \u20ac20 billion to \u20ac29 billion, surpassing the market cap of Vivendi at \u20ac28.3 billion. The bank anticipates music streaming revenue to reach \u20ac21 billion in 2023 and identifies potential suitors for"
+            },
+            {
+                "news": "AMS, an Austrian sensor specialist, is partnering with Chinese software maker Face to develop new 3D facial recognition features for smartphones. This move comes as AMS aims to reduce its dependence on Apple and boost its battered shares."
+            }
+        ]
+    },
+    "2019-01-20": {
+        "negative_events": [
+            {
+                "news": "The U.S. stock market declined on Monday as concerns over a global economic slowdown intensified following unexpected drops in China's exports and imports, with tech stocks suffering the most significant losses."
+            },
+            {
+                "news": "China's top government-linked think tank, the Chinese Academy of Social Sciences (CASS), criticized foreign companies such as Apple, Amazon, Nike, Siemens, ABB, and Subaru for not correctly referring to Hong Kong and Taiwan as part of China in a report."
+            },
+            {
+                "news": "Foxconn, Apple's biggest iPhone assembler, has let go around 50,000 contract workers in China earlier than usual this year."
+            }
+        ],
+        "positive_events": [
+            {
+                "news": "Dialog Semiconductor reported fourth quarter revenue in line with guidance despite a decrease in iPhone sales at main customer Apple."
+            },
+            {
+                "news": "Verizon announced that it will offer free Apple Music subscriptions with some of its top tier data plans, deepening its partnership with Apple."
+            },
+            {
+                "news": "U.S. futures rose on Friday following reports that U.S. and Chinese officials discussed the possibility of lifting some tariffs, improving investor sentiment."
+            }
+        ]
+    },
+    "2019-01-27": {
+        "negative_events": [
+            {
+                "news": "Foxconn, the world's largest contract manufacturer for Apple iPhones, is trying to recruit more than 50,000 employees across its China campuses in Q1 2019 amid reports of mass layoffs."
+            },
+            {
+                "news": "The White House reportedly rejected a scheduled meeting with Chinese officials this week due to disagreements over intellectual property rules, causing cautious trading in Asian stocks."
+            },
+            {
+                "news": "Apple, under new leadership in Project Titan, has let go over 200 team members from its autonomous vehicle unit."
+            }
+        ],
+        "positive_events": [
+            {
+                "news": "IBM's stock price increased after hours due to better-than-expected earnings and revenue, with its cloud computing business contributing positively."
+            },
+            {
+                "news": "Huawei is expanding its presence in Europe with the launch of the new Honor View20 smartphone, which offers advanced camera features at a lower price point than rivals Samsung and Apple. The phone includes a 48 mega pixel camera that combines multiple images into one high-quality photo,"
+            },
+            {
+                "news": "Japan Display shares surged on reports of potential funding from Taiwan's TPK Holding and China's Silk Road Fund, in exchange for a 30% stake. Discussions were described as advanced, with the company previously denying similar reports."
+            }
+        ]
+    },
+    "2019-02-03": {
+        "negative_events": [
+            {
+                "news": "Apple reported lower-than-projected fiscal first quarter earnings, with revenue falling significantly due to disappointing iPhone sales in China."
+            },
+            {
+                "news": "Facebook was removed from Apple's business app program after discovering the social media giant was using it to track teenagers' web browsing habits without proper authorization."
+            },
+            {
+                "news": "Apple banned Facebook from its business app program after discovering the social media giant was using it to track teenagers' web browsing habits without proper authorization."
+            }
+        ],
+        "positive_events": [
+            {
+                "news": "Apple reported stronger-than-expected earnings for Q1 2023, with GAAP EPS coming in at $4.18 versus the estimated $4.17."
+            },
+            {
+                "news": "Corning defied the trend of weak results in the phone and chip industry, reporting higher-than-expected revenue and profit for Q4."
+            },
+            {
+                "news": "Apple plans to cut prices of some flagship iPhones to boost sales, particularly in overseas markets like China where the U.S. dollar has risen significantly against local currencies."
+            }
+        ]
+    },
+    "2019-02-10": {
+        "negative_events": [
+            {
+                "news": "Two U.S. House Democrats, Frank Pallone and Jan Schakowsky, have expressed concern over Apple's handling of a privacy flaw in its FaceTime group video chat software."
+            },
+            {
+                "news": "AMS, a sensor specialist supplying components for Apple's face recognition technology, has warned of a more than 20 percent sales decline in Q1 2019 due to weak smartphone demand."
+            },
+            {
+                "news": "Analysts predict a decline of 0.1% in first quarter earnings for S&P 500 companies, marking the group's first quarterly profit decrease since 2016 according to Refinitiv data."
+            }
+        ],
+        "positive_events": [
+            {
+                "news": "JPMorgan suggests Apple should acquire Netflix due to its leading engagement level and original content, differentiating it from aggregators."
+            },
+            {
+                "news": "BP reported a doubling of profits, driven by strong oil output following the acquisition of U.S shale assets."
+            },
+            {
+                "news": "Tech giant Alphabet reported better than expected quarterly revenue and profit but concerns over higher spending sent its shares down."
+            }
+        ]
+    },
+    "2019-02-17": {
+        "negative_events": [
+            {
+                "news": "Apple's transaction fee of 30 percent for software developers in the App Store may be a concern for publishers."
+            },
+            {
+                "news": "Goldman analyst Rod Hall anticipates Apple's traffic acquisition costs from Google searches will decelerate significantly in 2019, leading to an estimated 16% reduction in services revenue growth compared to the prior year's 24%. To offset this decline, Apple is expected to launch its Apple Prime bundle with original video"
+            },
+            {
+                "news": "The U.K. government has released a report recommending greater regulation of tech companies, specifically Google, Facebook, and Apple, in how they distribute news content. The companies are urged to sign a code of conduct governing their commercial agreements with publishers. Additionally, the U.K.'s competition authority is encouraged to investigate online advertising for fair competition."
+            }
+        ],
+        "positive_events": [
+            {
+                "news": "Apple is targeting an April event to introduce a streaming television service, likely featuring content from CBS, Viacom, and Lions Gate, along with its own original productions. The service aims to consolidate multiple apps into one location, offering both Apple's original shows and subscriptions to traditional TV channels, similar to Amazon Prime Video."
+            },
+            {
+                "news": "NVIDIA's stock price surged in premarket trade, up by 8.06% at 8:06 AM ET or 13:06 GMT, following the company's forecast for better-than-expected sales during the current fiscal year."
+            },
+            {
+                "news": "Wall Street ended the week on a positive note, with all three major indexes posting their eighth consecutive weekly gains. Investor optimism grew as trade talks between the US and China resumed, with both sides reporting progress in resolving their long-standing trade dispute."
+            }
+        ]
+    },
+    "2019-02-24": {
+        "negative_events": [
+            {
+                "news": "WhatsApp, owned by Facebook, has acknowledged a security bug allowing iPhone users to bypass its new privacy feature that requires Touch ID or Face ID for app access."
+            },
+            {
+                "news": "Kraft Heinz suffered a significant loss in premarket trade due to a disappointing earnings report and an SEC investigation."
+            },
+            {
+                "news": "Apple collaborates with Ant Financial Services Group and local banks in China, providing interest-free financing for iPhone purchases as part of an effort to revive sales. The scheme, available through Huabei, is open to customers purchasing products worth a minimum of 4,000 yuan from Apple."
+            }
+        ],
+        "positive_events": [
+            {
+                "news": "Garmin reported stronger-than-expected fourth quarter earnings and revenue, driven by robust demand for its wearable fitness devices and aviation products."
+            },
+            {
+                "news": "Viaciom announced it will provide programming on fuboTV's live streaming service, joining other virtual pay TV providers such as Sling TV, DirectTV Now and Philo."
+            },
+            {
+                "news": "Goldman Sachs is partnering with Apple to launch co-branded credit cards, allowing users to manage finances via iPhone and set spending goals."
+            }
+        ]
+    },
+    "2019-03-03": {
+        "negative_events": [
+            {
+                "news": "AAC Technologies Holdings Inc saw its shares plummet over 13% after announcing a significant decrease in first-quarter profits, forecasted between 65-75% year-on-year."
+            },
+            {
+                "news": "Apple announced plans to lay off approximately 190 employees from its self-driving car project, Project Titan."
+            },
+            {
+                "news": "AAC Technologies Holdings, an Apple supplier based in Hong Kong, reported a significant decrease in expected net profit for Q1 2019 due to reduced orders from customers and narrowing gross profit margins."
+            }
+        ],
+        "positive_events": [
+            {
+                "news": "Huawei, the world's third largest smartphone vendor, defended its position as a global tech leader amid ongoing U.S.-China trade tensions."
+            },
+            {
+                "news": "Spotify, the world's leading paid music streaming service, entered the Indian market on Tuesday."
+            },
+            {
+                "news": "The Dow Jones Industrial Average and other major indexes posted gains on Monday, with the Dow rising 60 points, after President Trump announced progress in trade talks with China and delayed tariff hikes."
+            }
+        ]
+    },
+    "2019-03-10": {
+        "negative_events": [
+            {
+                "news": "Mozilla, the Firefox browser maker, is considering revoking DarkMatter's authority to certify websites as safe due to reports linking the cybersecurity firm to a UAE-based intelligence agency's hacking program."
+            },
+            {
+                "news": "European shares were flat on Wednesday as weak results from the auto sector and fading investor confidence offset positive news from China's easing policies."
+            },
+            {
+                "news": "Tesla's bull thesis, which has relied on the arrival of the lower-priced Model 3 and Elon Musk's vision, is facing challenges. China, a significant growth market for Tesla, halted Model 3 sales due to regulatory issues."
+            }
+        ],
+        "positive_events": [
+            {
+                "news": "Spotify, the world's largest paid music streaming platform, reported over 1 million unique users in India within a week of launch. The company, which entered the price-sensitive Indian market on Tuesday, offers a free version with ads and a premium ad-free variant for 119 Indian rupees per month."
+            },
+            {
+                "news": "IBM CEO Ginni Rometty and Apple CEO Tim Cook, among other corporate leaders, attended a White House forum where they discussed hiring more Americans without college degrees due to a shortage of applicants for open jobs. Rometty stated that 'a less than a four-year degree will get a very good paying job in the new economy'."
+            },
+            {
+                "news": "Chinese online retailers, including Suning, Pinduoduo, and JD com, have recently discounted the price of Apple's iPhone XS by up to 1,000 yuan in an effort to boost sales during a prolonged sales slowdown in China. Several vendors also offered discounts on other iPhone models."
+            }
+        ]
+    },
+    "2019-03-17": {
+        "negative_events": [
+            {
+                "news": "Boeing's NYSE BA stock experienced significant losses in premarket trade on Tuesday, as the company faced continued scrutiny following the second crash of a 737 Max 8 plane."
+            },
+            {
+                "news": "The European Union's Competition Commissioner Margrethe Vestager has indicated that the EU is considering opening an investigation into Apple over allegations of using its app store to favor its own services over rivals."
+            },
+            {
+                "news": "Oracle stock declined by 8.15% in premarket trade after CEO Safra Catz warned of a potential revenue drop up to 2 billion for the current quarter, marking the fourth consecutive quarterly decline due to challenges in cloud services growth."
+            }
+        ],
+        "positive_events": [
+            {
+                "news": "Apple launched a new television advertising campaign emphasizing its commitment to data privacy, distinguishing itself from rivals Google and Facebook under regulatory scrutiny."
+            },
+            {
+                "news": "Stocks rallied Friday as technology companies surged following reports of progress in U.S.-China trade talks, with the S&P 500 and Nasdaq posting their best weekly gains since November. The Philadelphia Semiconductor Index jumped 2.9%, while the S&P 500 Technology Index "
+            },
+            {
+                "news": "In a SEC filing, Berkshire Hathaway revealed that its Vice Chairmen Greg Abel and Ajit Jain received approximately $18 million each in compensation last year. Abel, who oversees non-insurance operations such as BNSF railroad, Precision Castparts, and Berkshire Hathaway Energy"
+            }
+        ]
+    },
+    "2019-03-24": {
+        "negative_events": [
+            {
+                "news": "Tesla's CEO Elon Musk faces SEC scrutiny again for tweets without pre-approval, causing a slip in TSLA stock."
+            },
+            {
+                "news": "Facebook's stock price dropped more than 3% on Monday following downgrades from Needham and Bank of America, with concerns over the company's pivot towards privacy and encrypted messages, as well as regulatory risks, impacting its ability to monetize data."
+            },
+            {
+                "news": "Myer, Australia's largest department store chain, announced it will stop selling Apple products due to weak demand and unprofitable sales. The decision applies to all 16 stores carrying Apple items, both online and offline. Apple's iPhone has faced declining demand globally, particularly in China due to the US-China trade war."
+            }
+        ],
+        "positive_events": [
+            {
+                "news": "Foxconn, a leading tech company, announced it will complete construction of its new factory in Wisconsin by the end of this year to manufacture liquid crystal display screens."
+            },
+            {
+                "news": "Samsung Electronics reported strong sales for its new Galaxy flagship smartphones in China despite significant market share losses to Chinese rivals like Huawei."
+            },
+            {
+                "news": "Apple introduced updated AirPods headphones on March 20, featuring improved battery life and an optional wireless charging case."
+            }
+        ]
+    },
+    "2019-03-31": {
+        "negative_events": [
+            {
+                "news": "The yield curve between three-month bills and ten-year notes inverted further, with benchmark yields falling to a 14-month low below 2.40%. This has fueled recession fears."
+            },
+            {
+                "news": "Wall Street is poised for a lower open on Monday amidst lingering concerns over economic slowdown and potential U.S. recession, with the S&P 500 and Nasdaq 100 futures experiencing losses."
+            },
+            {
+                "news": "Goldman Sachs faces shareholder concerns over growing unsecured debt as it enters the co-branded cards market, which could be challenging due to retailers' hold on sway and analysts' downbeat outlook on global growth."
+            }
+        ],
+        "positive_events": [
+            {
+                "news": "Apple announced a host of new subscription services during its event, including ad-free streaming TV service Apple TV+, gaming service Apple Arcade, and a paid news service AppleNews."
+            },
+            {
+                "news": "Viacom's stock surged 8.04% in premarket trade on Monday following the renewal of its contract with AT&T, preventing a blackout of MTV, Nickelodeon, and Comedy Central for DirecTV users."
+            },
+            {
+                "news": "Asian shares rebounded slightly on Tuesday after a tumultuous session the previous day, with China's Shanghai Composite and Shenzhen Component both showing gains. The Hang Seng Index in Hong Kong and Japan's Nikkei 225 also rose."
+            }
+        ]
+    },
+    "2019-04-07": {
+        "negative_events": [
+            {
+                "news": "In response to the deadly mosque shootings in Christchurch, Australia passed a new law fining social media and web hosting companies up to 10% of their global turnover and imprisoning executives for up to three years if they fail to remove violent content expeditiously."
+            },
+            {
+                "news": "Boeing suffered pre-market losses after a software update delay for its troubled 787 Dreamliner."
+            },
+            {
+                "news": "In the first quarter, Samsung Electronics faces challenges including falling memory chip prices and slowing demand for display panels, potentially leading to a significant earnings miss."
+            }
+        ],
+        "positive_events": [
+            {
+                "news": "Apple and other consumer brands, including LVMH's Louis Vuitton and Kering's Gucci, reduced prices for their products in China following a cut in the country's value-added tax rate. The discounts ranged from up to 500 yuan for some iPhone models to around 3 percent."
+            },
+            {
+                "news": "Japan Display, a key Apple supplier, is set to begin providing OLED screens for the Apple Watch later this year. This represents a breakthrough for the cash-strapped company, whose shift to OLED came late and cost it orders from Apple."
+            },
+            {
+                "news": "Facebook has introduced a business version of WhatsApp, its encrypted messaging app, for iOS devices. The free app will initially be available in Brazil, Germany, Indonesia, India, Mexico, the UK, and the US, with a global rollout planned."
+            }
+        ]
+    },
+    "2019-04-14": {
+        "negative_events": [
+            {
+                "news": "Apple is under investigation by the Dutch competition agency, ACM, for allegedly favoring its own apps on the App Store. The probe may expand to Google's Play Store due to similar business practices."
+            },
+            {
+                "news": "In this article, a Chinese-Taiwanese group led by TPK Holding and Harvest Group will take control of Japan Display with a 21 billion bailout plan, making them the company's biggest shareholders. The rescue comes after previous government bailouts failed to help Japan Display reduce its dependence on Apple, whose slowing"
+            },
+            {
+                "news": "mobile phone shipments to China dropped by 6 percent from the previous year to 28.4 million units, according to official figures. This is the fifth consecutive month of decline and follows an anemic year in 2018 when total shipments fell 15.5 percent."
+            }
+        ],
+        "positive_events": [
+            {
+                "news": "Oprah Winfrey and Prince Harry have partnered to create an Apple documentary, set for release next year, aimed at promoting mental health awareness."
+            },
+            {
+                "news": "Delta Airlines' Q1 earnings surpassed expectations, leading to a 2.7% increase in DAL stock."
+            },
+            {
+                "news": "JetBlue speculation and possible AT&T sale fueled gains for JBLU and T"
+            }
+        ]
+    },
+    "2019-04-21": {
+        "negative_events": [
+            {
+                "news": "Amazon's potential entry into the free music streaming market sent shockwaves through the industry, with shares of Amazon NASDAQ AMZN and Spotify NYSE:SPOT sliding in early trading."
+            },
+            {
+                "news": "Wisconsin Governor Tony Evers announced his intention to renegotiate the state's contract with Foxconn Technology Group due to the company's failure to meet job creation goals."
+            },
+            {
+                "news": "TSMC reported a steep quarterly profit drop of 32% due to weak global demand for smartphones and the prolonged U.S.-China trade war."
+            }
+        ],
+        "positive_events": [
+            {
+                "news": "Taiwan business tycoon Terry Gou, chairman of Apple supplier Foxconn and Taiwan's richest person with a net worth of $7.6 billion, announced his intention to contest the 2020 presidential election."
+            },
+            {
+                "news": "TomTom, a Dutch navigation and digital maps firm, reported a 14% increase in first quarter revenue to \u20ac169.5 million, beating analysts' forecasts."
+            },
+            {
+                "news": "Aeva Inc, a startup founded by former Apple engineers, has signed a deal with Audi's autonomous driving unit, AID Autonomous Intelligent Driving, for lidar sensor systems."
+            }
+        ]
+    },
+    "2019-04-28": {
+        "negative_events": [
+            {
+                "news": "LG Electronics, one of the world's top three mobile phone makers a decade ago, announced it would cease smartphone production in South Korea and shift manufacturing to Vietnam. The move comes as global demand for smartphones slumps and LG struggles with market share below 3%. Despite low global presence, LG maintains"
+            },
+            {
+                "news": "Samsung Electronics has delayed the retail launch of its new Galaxy Fold smartphone due to display issues reported by reviewers. About 50 units were sent for review, with several reporting screen defects such as bulges and blinking screens. The root cause of the problem is not yet known, but initial findings suggest it may be related"
+            },
+            {
+                "news": "Silicon Valley ethicists Tristan Harris and Aza Raskin, co-founders of the nonprofit Center for Humane Technology, urged tech leaders to focus on reversing 'human downgrading' by reconsidering the design and financial incentives of their systems. They warned that the excessive exploitation of human weaknesses"
+            }
+        ],
+        "positive_events": [
+            {
+                "news": "The popularity of its original shows and the launch of a new Android app drove Snap's better-than-expected earnings for Q1, leading to an increase in daily active users (DAUs) to"
+            },
+            {
+                "news": "Chinese tech giant Tencent Holdings has invested in Argentine mobile banking service Uala, joining investors including George Soros and Point72 Ventures. The investment significantly raised Uala's valuation and will help accelerate its growth plans."
+            },
+            {
+                "news": "ASM International beat first quarter expectations with revenue of 249 million euros and order intake of 235 million euros. The strong performance was attributed to its fabrication and logic semiconductor businesses."
+            }
+        ]
+    },
+    "2019-05-05": {
+        "negative_events": [
+            {
+                "news": "The Czech Finance Ministry is finalizing plans to impose a digital tax on global internet giants, such as Google, Apple, Facebook, and Amazon, with a rate of 7 percent. This tax will primarily target advertising services and data sales."
+            },
+            {
+                "news": "In mixed trading on Wall Street, disappointing earnings from Google pressured tech stocks"
+            },
+            {
+                "news": "European shares fell on Tuesday, with banks underperforming amid a decline in China's manufacturing activity and awaiting euro zone economic growth numbers."
+            }
+        ],
+        "positive_events": [
+            {
+                "news": "Spotify reported better-than-expected Q1 revenue growth, reaching 100 million paid subscribers despite increasing competition from Apple Music, Amazon, and Google. The streaming giant seeks expansion in emerging markets and continues aggressive pricing strategies."
+            },
+            {
+                "news": "Media mogul Oprah Winfrey, known for influencing millions with her opinions on diets and books, is considering which Democratic presidential candidate to endorse in 2020. She told the Hollywood Reporter she's 'quietly figuring out where I'm going to use my voice' and will make a clear announcement."
+            },
+            {
+                "news": "The S&P 500 reached another record high close on Tuesday, marking its best four-month stretch since late 2010. Apple's strong quarterly results and positive earnings forecast helped ease concerns about the bull run's sustainability, despite a revenue miss from Google parent Alphabet."
+            }
+        ]
+    }
+}
